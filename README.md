@@ -1,2 +1,2 @@
 # ML-FlaskApp
-A Flask app for prediciting house rent based on dimensions and rating.
+A Flask app for prediciting house rent based on Rating, Square feet and Number of Bedrooms.
